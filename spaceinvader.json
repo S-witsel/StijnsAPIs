@@ -1,0 +1,95 @@
+{
+    "space_invaders": [
+      {
+        "name": "Zog",
+        "color": "green",
+        "funny_fact": "Zog loves to eat asteroid sandwiches!",
+        "location": {
+          "longitude": 34.0522,
+          "latitude": -118.2437
+        }
+      },
+      {
+        "name": "Glix",
+        "color": "blue",
+        "funny_fact": "Glix communicates through intergalactic dance moves!",
+        "location": {
+          "longitude": 40.7128,
+          "latitude": -74.0060
+        }
+      },
+      {
+        "name": "Blip",
+        "color": "red",
+        "funny_fact": "Blip is afraid of black holes!",
+        "location": {
+          "longitude": 51.5074,
+          "latitude": -0.1278
+        }
+      },
+      {
+        "name": "Flurp",
+        "color": "purple",
+        "funny_fact": "Flurp once mistook a comet for a giant space marshmallow!",
+        "location": {
+          "longitude": 35.6895,
+          "latitude": 139.6917
+        }
+      },
+      {
+        "name": "Snix",
+        "color": "yellow",
+        "funny_fact": "Snix dreams of opening a space-themed bakery!",
+        "location": {
+          "longitude": 52.5200,
+          "latitude": 13.4050
+        }
+      },
+      {
+        "name": "Klop",
+        "color": "orange",
+        "funny_fact": "Klop's favorite hobby is asteroid surfing!",
+        "location": {
+          "longitude": 48.8566,
+          "latitude": 2.3522
+        }
+      },
+      {
+        "name": "Dweeb",
+        "color": "pink",
+        "funny_fact": "Dweeb collects space rocks as souvenirs!",
+        "location": {
+          "longitude": 41.9028,
+          "latitude": 12.4964
+        }
+      },
+      {
+        "name": "Bloop",
+        "color": "teal",
+        "funny_fact": "Bloop's spaceship runs on cosmic energy!",
+        "location": {
+          "longitude": 37.7749,
+          "latitude": -122.4194
+        }
+      },
+      {
+        "name": "Quix",
+        "color": "brown",
+        "funny_fact": "Quix is a master at zero-gravity yoga!",
+        "location": {
+          "longitude": 34.0522,
+          "latitude": -118.2437
+        }
+      },
+      {
+        "name": "Chirp",
+        "color": "turquoise",
+        "funny_fact": "Chirp has a secret stash of space disco music!",
+        "location": {
+          "longitude": 51.5074,
+          "latitude": -0.1278
+        }
+      }
+    ]
+  }
+  
