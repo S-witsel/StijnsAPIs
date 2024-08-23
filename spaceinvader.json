@@ -1,95 +1,106 @@
+Certainly! To randomize the coordinates for each space invader within Rotterdam while keeping them relatively close to each other, I'll generate random latitude and longitude values around the central coordinates of Rotterdam.
+
+Rotterdam's approximate central coordinates:
+- **Latitude:** 51.9225
+- **Longitude:** 4.47917
+
+I'll create random offsets around these values to scatter the invaders across the city. Here's the modified JSON with randomized coordinates:
+
+```json
 {
-    "space_invaders": [
-      {
-        "name": "Zog",
-        "color": "green",
-        "funny_fact": "Zog loves to eat asteroid sandwiches!",
-        "location": {
-          "longitude": 34.0522,
-          "latitude": -118.2437
-        }
-      },
-      {
-        "name": "Glix",
-        "color": "blue",
-        "funny_fact": "Glix communicates through intergalactic dance moves!",
-        "location": {
-          "longitude": 40.7128,
-          "latitude": -74.0060
-        }
-      },
-      {
-        "name": "Blip",
-        "color": "red",
-        "funny_fact": "Blip is afraid of black holes!",
-        "location": {
-          "longitude": 51.5074,
-          "latitude": -0.1278
-        }
-      },
-      {
-        "name": "Flurp",
-        "color": "purple",
-        "funny_fact": "Flurp once mistook a comet for a giant space marshmallow!",
-        "location": {
-          "longitude": 35.6895,
-          "latitude": 139.6917
-        }
-      },
-      {
-        "name": "Snix",
-        "color": "yellow",
-        "funny_fact": "Snix dreams of opening a space-themed bakery!",
-        "location": {
-          "longitude": 52.5200,
-          "latitude": 13.4050
-        }
-      },
-      {
-        "name": "Klop",
-        "color": "orange",
-        "funny_fact": "Klop's favorite hobby is asteroid surfing!",
-        "location": {
-          "longitude": 48.8566,
-          "latitude": 2.3522
-        }
-      },
-      {
-        "name": "Dweeb",
-        "color": "pink",
-        "funny_fact": "Dweeb collects space rocks as souvenirs!",
-        "location": {
-          "longitude": 41.9028,
-          "latitude": 12.4964
-        }
-      },
-      {
-        "name": "Bloop",
-        "color": "teal",
-        "funny_fact": "Bloop's spaceship runs on cosmic energy!",
-        "location": {
-          "longitude": 37.7749,
-          "latitude": -122.4194
-        }
-      },
-      {
-        "name": "Quix",
-        "color": "brown",
-        "funny_fact": "Quix is a master at zero-gravity yoga!",
-        "location": {
-          "longitude": 34.0522,
-          "latitude": -118.2437
-        }
-      },
-      {
-        "name": "Chirp",
-        "color": "turquoise",
-        "funny_fact": "Chirp has a secret stash of space disco music!",
-        "location": {
-          "longitude": 51.5074,
-          "latitude": -0.1278
-        }
+  "space_invaders": [
+    {
+      "name": "Zog",
+      "color": "green",
+      "funny_fact": "Zog loves to eat asteroid sandwiches!",
+      "location": {
+        "longitude": 4.4751,
+        "latitude": 51.9242
       }
-    ]
-  }
-  
+    },
+    {
+      "name": "Glix",
+      "color": "blue",
+      "funny_fact": "Glix communicates through intergalactic dance moves!",
+      "location": {
+        "longitude": 4.4823,
+        "latitude": 51.9208
+      }
+    },
+    {
+      "name": "Blip",
+      "color": "red",
+      "funny_fact": "Blip is afraid of black holes!",
+      "location": {
+        "longitude": 4.4785,
+        "latitude": 51.9219
+      }
+    },
+    {
+      "name": "Flurp",
+      "color": "purple",
+      "funny_fact": "Flurp once mistook a comet for a giant space marshmallow!",
+      "location": {
+        "longitude": 4.4742,
+        "latitude": 51.9233
+      }
+    },
+    {
+      "name": "Snix",
+      "color": "yellow",
+      "funny_fact": "Snix dreams of opening a space-themed bakery!",
+      "location": {
+        "longitude": 4.4804,
+        "latitude": 51.9250
+      }
+    },
+    {
+      "name": "Klop",
+      "color": "orange",
+      "funny_fact": "Klop's favorite hobby is asteroid surfing!",
+      "location": {
+        "longitude": 4.4768,
+        "latitude": 51.9221
+      }
+    },
+    {
+      "name": "Dweeb",
+      "color": "pink",
+      "funny_fact": "Dweeb collects space rocks as souvenirs!",
+      "location": {
+        "longitude": 4.4779,
+        "latitude": 51.9245
+      }
+    },
+    {
+      "name": "Bloop",
+      "color": "teal",
+      "funny_fact": "Bloop's spaceship runs on cosmic energy!",
+      "location": {
+        "longitude": 4.4816,
+        "latitude": 51.9230
+      }
+    },
+    {
+      "name": "Quix",
+      "color": "brown",
+      "funny_fact": "Quix is a master at zero-gravity yoga!",
+      "location": {
+        "longitude": 4.4749,
+        "latitude": 51.9215
+      }
+    },
+    {
+      "name": "Chirp",
+      "color": "turquoise",
+      "funny_fact": "Chirp has a secret stash of space disco music!",
+      "location": {
+        "longitude": 4.4798,
+        "latitude": 51.9229
+      }
+    }
+  ]
+}
+```
+
+In this version, each space invader's location has been slightly adjusted to scatter them around Rotterdam while keeping them close to each other. The variations are subtle enough to ensure they remain within the city and don't stray too far apart.
