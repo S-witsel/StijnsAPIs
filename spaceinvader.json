@@ -89,6 +89,177 @@
         "longitude": 4.4798,
         "latitude": 51.9229
       }
+    },
+    {
+      "name": "Zorp",
+      "color": "lime",
+      "funny_fact": "Zorp can juggle six asteroids at once!",
+      "location": {
+        "longitude": 4.4760,
+        "latitude": 51.9252
+      }
+    },
+    {
+      "name": "Fiz",
+      "color": "maroon",
+      "funny_fact": "Fiz has a pet nebula named Fluffy!",
+      "location": {
+        "longitude": 4.4782,
+        "latitude": 51.9238
+      }
+    },
+    {
+      "name": "Gloop",
+      "color": "navy",
+      "funny_fact": "Gloop plays the cosmic harmonica!",
+      "location": {
+        "longitude": 4.4810,
+        "latitude": 51.9212
+      }
+    },
+    {
+      "name": "Plip",
+      "color": "magenta",
+      "funny_fact": "Plip loves meteor showers, but only from a distance!",
+      "location": {
+        "longitude": 4.4753,
+        "latitude": 51.9227
+      }
+    },
+    {
+      "name": "Tron",
+      "color": "cyan",
+      "funny_fact": "Tron once won a galactic hula hoop contest!",
+      "location": {
+        "longitude": 4.4786,
+        "latitude": 51.9235
+      }
+    },
+    {
+      "name": "Wib",
+      "color": "olive",
+      "funny_fact": "Wib's favorite food is cosmic cotton candy!",
+      "location": {
+        "longitude": 4.4773,
+        "latitude": 51.9249
+      }
+    },
+    {
+      "name": "Yip",
+      "color": "lavender",
+      "funny_fact": "Yip dreams of being a space DJ!",
+      "location": {
+        "longitude": 4.4801,
+        "latitude": 51.9217
+      }
+    },
+    {
+      "name": "Nix",
+      "color": "salmon",
+      "funny_fact": "Nix can recite the entire history of the universe!",
+      "location": {
+        "longitude": 4.4790,
+        "latitude": 51.9231
+      }
+    },
+    {
+      "name": "Vorb",
+      "color": "gold",
+      "funny_fact": "Vorb once caught a shooting star bare-handed!",
+      "location": {
+        "longitude": 4.4757,
+        "latitude": 51.9223
+      }
+    },
+    {
+      "name": "Zeep",
+      "color": "silver",
+      "funny_fact": "Zeep can speak over 50 alien languages!",
+      "location": {
+        "longitude": 4.4764,
+        "latitude": 51.9246
+      }
+    },
+    {
+      "name": "Clop",
+      "color": "peach",
+      "funny_fact": "Clop is a space yoga instructor!",
+      "location": {
+        "longitude": 4.4789,
+        "latitude": 51.9228
+      }
+    },
+    {
+      "name": "Droop",
+      "color": "rose",
+      "funny_fact": "Droop enjoys stargazing while sipping comet tea!",
+      "location": {
+        "longitude": 4.4771,
+        "latitude": 51.9241
+      }
+    },
+    {
+      "name": "Xip",
+      "color": "emerald",
+      "funny_fact": "Xip's spaceship is shaped like a giant space peanut!",
+      "location": {
+        "longitude": 4.4765,
+        "latitude": 51.9234
+      }
+    },
+    {
+      "name": "Rup",
+      "color": "cobalt",
+      "funny_fact": "Rup can teleport short distances!",
+      "location": {
+        "longitude": 4.4806,
+        "latitude": 51.9216
+      }
+    },
+    {
+      "name": "Trix",
+      "color": "aqua",
+      "funny_fact": "Trix can mimic the sound of any spaceship!",
+      "location": {
+        "longitude": 4.4793,
+        "latitude": 51.9243
+      }
+    },
+    {
+      "name": "Floop",
+      "color": "crimson",
+      "funny_fact": "Floop once threw a party in a black hole!",
+      "location": {
+        "longitude": 4.4754,
+        "latitude": 51.9237
+      }
+    },
+    {
+      "name": "Worb",
+      "color": "periwinkle",
+      "funny_fact": "Worb is a champion of interstellar hopscotch!",
+      "location": {
+        "longitude": 4.4778,
+        "latitude": 51.9222
+      }
+    },
+    {
+      "name": "Prax",
+      "color": "sapphire",
+      "funny_fact": "Prax's favorite game is cosmic hide-and-seek!",
+      "location": {
+        "longitude": 4.4767,
+        "latitude": 51.9240
+      }
+    },
+    {
+      "name": "Zim",
+      "color": "fuchsia",
+      "funny_fact": "Zim is a master of galactic chess!",
+      "location": {
+        "longitude": 4.4799,
+        "latitude": 51.9232
+      }
     }
   ]
 }
