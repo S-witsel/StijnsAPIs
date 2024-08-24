@@ -1,6 +1,7 @@
 {
   "space_invaders": [
     {
+      "id": 1,
       "name": "Zog",
       "color": "green",
       "funny_fact": "Zog loves to eat asteroid sandwiches!",
@@ -10,6 +11,7 @@
       }
     },
     {
+      "id": 2,
       "name": "Glix",
       "color": "blue",
       "funny_fact": "Glix communicates through intergalactic dance moves!",
@@ -19,6 +21,7 @@
       }
     },
     {
+      "id": 3,
       "name": "Blip",
       "color": "red",
       "funny_fact": "Blip is afraid of black holes!",
@@ -28,6 +31,7 @@
       }
     },
     {
+      "id": 4,
       "name": "Flurp",
       "color": "purple",
       "funny_fact": "Flurp once mistook a comet for a giant space marshmallow!",
@@ -37,6 +41,7 @@
       }
     },
     {
+      "id": 5,
       "name": "Snix",
       "color": "yellow",
       "funny_fact": "Snix dreams of opening a space-themed bakery!",
@@ -46,6 +51,7 @@
       }
     },
     {
+      "id": 6,
       "name": "Klop",
       "color": "orange",
       "funny_fact": "Klop's favorite hobby is asteroid surfing!",
@@ -55,6 +61,7 @@
       }
     },
     {
+      "id": 7,
       "name": "Dweeb",
       "color": "pink",
       "funny_fact": "Dweeb collects space rocks as souvenirs!",
@@ -64,6 +71,7 @@
       }
     },
     {
+      "id": 8,
       "name": "Bloop",
       "color": "teal",
       "funny_fact": "Bloop's spaceship runs on cosmic energy!",
@@ -73,6 +81,7 @@
       }
     },
     {
+      "id": 9,
       "name": "Quix",
       "color": "brown",
       "funny_fact": "Quix is a master at zero-gravity yoga!",
@@ -82,6 +91,7 @@
       }
     },
     {
+      "id": 10,
       "name": "Chirp",
       "color": "turquoise",
       "funny_fact": "Chirp has a secret stash of space disco music!",
@@ -91,6 +101,7 @@
       }
     },
     {
+      "id": 11,
       "name": "Zorp",
       "color": "lime",
       "funny_fact": "Zorp can juggle six asteroids at once!",
@@ -100,6 +111,7 @@
       }
     },
     {
+      "id": 12,
       "name": "Fiz",
       "color": "maroon",
       "funny_fact": "Fiz has a pet nebula named Fluffy!",
@@ -109,6 +121,7 @@
       }
     },
     {
+      "id": 13,
       "name": "Gloop",
       "color": "navy",
       "funny_fact": "Gloop plays the cosmic harmonica!",
@@ -118,6 +131,7 @@
       }
     },
     {
+      "id": 14,
       "name": "Plip",
       "color": "magenta",
       "funny_fact": "Plip loves meteor showers, but only from a distance!",
@@ -127,6 +141,7 @@
       }
     },
     {
+      "id": 15,
       "name": "Tron",
       "color": "cyan",
       "funny_fact": "Tron once won a galactic hula hoop contest!",
@@ -136,6 +151,7 @@
       }
     },
     {
+      "id": 16,
       "name": "Wib",
       "color": "olive",
       "funny_fact": "Wib's favorite food is cosmic cotton candy!",
@@ -145,6 +161,7 @@
       }
     },
     {
+      "id": 17,
       "name": "Yip",
       "color": "lavender",
       "funny_fact": "Yip dreams of being a space DJ!",
@@ -154,6 +171,7 @@
       }
     },
     {
+      "id": 18,
       "name": "Nix",
       "color": "salmon",
       "funny_fact": "Nix can recite the entire history of the universe!",
@@ -163,6 +181,7 @@
       }
     },
     {
+      "id": 19,
       "name": "Vorb",
       "color": "gold",
       "funny_fact": "Vorb once caught a shooting star bare-handed!",
@@ -172,6 +191,7 @@
       }
     },
     {
+      "id": 20,
       "name": "Zeep",
       "color": "silver",
       "funny_fact": "Zeep can speak over 50 alien languages!",
@@ -181,6 +201,7 @@
       }
     },
     {
+      "id": 21,
       "name": "Clop",
       "color": "peach",
       "funny_fact": "Clop is a space yoga instructor!",
@@ -190,6 +211,7 @@
       }
     },
     {
+      "id": 22,
       "name": "Droop",
       "color": "rose",
       "funny_fact": "Droop enjoys stargazing while sipping comet tea!",
@@ -199,6 +221,7 @@
       }
     },
     {
+      "id": 23,
       "name": "Xip",
       "color": "emerald",
       "funny_fact": "Xip's spaceship is shaped like a giant space peanut!",
@@ -208,6 +231,7 @@
       }
     },
     {
+      "id": 24,
       "name": "Rup",
       "color": "cobalt",
       "funny_fact": "Rup can teleport short distances!",
@@ -217,6 +241,7 @@
       }
     },
     {
+      "id": 25,
       "name": "Trix",
       "color": "aqua",
       "funny_fact": "Trix can mimic the sound of any spaceship!",
@@ -226,6 +251,7 @@
       }
     },
     {
+      "id": 26,
       "name": "Floop",
       "color": "crimson",
       "funny_fact": "Floop once threw a party in a black hole!",
@@ -235,6 +261,7 @@
       }
     },
     {
+      "id": 27,
       "name": "Worb",
       "color": "periwinkle",
       "funny_fact": "Worb is a champion of interstellar hopscotch!",
@@ -244,6 +271,7 @@
       }
     },
     {
+      "id": 28,
       "name": "Prax",
       "color": "sapphire",
       "funny_fact": "Prax's favorite game is cosmic hide-and-seek!",
@@ -253,6 +281,7 @@
       }
     },
     {
+      "id": 29,
       "name": "Zim",
       "color": "fuchsia",
       "funny_fact": "Zim is a master of galactic chess!",
